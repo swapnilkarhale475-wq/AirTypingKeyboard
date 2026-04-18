@@ -25,7 +25,9 @@ This project allows you to type without touching a keyboard using hand gestures.
 2. Run the program:
    python AirTypingKeyboard.py
 
+## 🎥Demo
 ## 🎥 Demo
 
+![Demo](screenshot.png.png)
 
 ⭐ If you like this project, give it a star!
